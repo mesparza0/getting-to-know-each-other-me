@@ -1,3 +1,25 @@
-h1 { color:white}
-h2 { color:white}
-p2 {color:blue}
+body {
+  background-color: lightblue;
+  color: white;
+  text-align: center;
+
+}
+
+p1 {
+  font-family: verdana;
+  background-color: #c8d9ed;
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+  background-color: darkblue;
+  color: black;
+  font-family: verdana;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+  background-color: darkblue;
+}
